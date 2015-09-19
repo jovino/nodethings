@@ -16,6 +16,7 @@
   "author": "Jovino",
   "license": "ISC",
   "dependencies": {
+    "gruntfile-editor": "^1.0.0",
     "yeoman-generator": "^0.20.3"
   }
 }
